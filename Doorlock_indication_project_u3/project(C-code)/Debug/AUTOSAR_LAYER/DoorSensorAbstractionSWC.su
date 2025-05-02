@@ -1,0 +1,2 @@
+../AUTOSAR_LAYER/DoorSensorAbstractionSWC.c:11:16:Led_Switch_Runnable	24	static
+../AUTOSAR_LAYER/DoorSensorAbstractionSWC.c:37:6:ReadDoorSensor_Runnable	16	static
